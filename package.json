@@ -1,6 +1,7 @@
 {
   "name": "new_app",
   "dependencies": {
+    "angular-ui-router": "^0.3.2",
     "bcrypt-nodejs": "0.0.3",
     "bluebird": "^3.3.5",
     "body-parser": "^1.10.1",
