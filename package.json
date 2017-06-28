@@ -1,6 +1,7 @@
 {
   "name": "new_app",
   "dependencies": {
+    "angular-animate": "^1.6.0",
     "angular-ui-router": "^0.3.2",
     "bcrypt": "^1.0.1",
     "bcrypt-nodejs": "0.0.3",
